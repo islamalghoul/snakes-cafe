@@ -60,3 +60,4 @@ while order.lower()!="quit":
     else:
         print("sorry we dont have this order in our menu but we will take your suggestion in consideration")
     order=input(">")
+print(f"you have {mass}")
